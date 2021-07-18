@@ -1,0 +1,18 @@
+body {
+
+    background-color: darkgray;
+}
+
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(228, 31, 31);
+}
+
+p {
+    font-size: 14px; /* Tamanho da fonte  */
+    font-weight: bold;  /* fonte negrito (grossura da fonte */
+    text-align: justify; /*deixa o texto alinhado */
+    line-height: 20px; /*espaçamento entre as linhas; nota: sempre maior que o tamanho da fonte */
+}

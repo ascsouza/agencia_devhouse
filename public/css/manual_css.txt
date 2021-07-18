@@ -1,0 +1,31 @@
+UTILIZANDO CLASSE -- > colocando no css e no arquivo de imagem
+Ex: <img class="icon-social" src="/img/facebook.svg"  alt="Icone facebook" />
+
+.icon-social {
+    width: 80px;
+}
+
+
+
+/* estiliza toda parte do corpo do Html */
+body {
+    font-family: "Courier New", 'Courier', monospace;
+}
+
+
+/* altera todo o HTML
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* tag 
+body {
+    background: rgb(164, 175, 146); /*posso utilizar com imagem */
+    /*background-color: greenyellow; /* é apenas cor 
+} */
+
+/* estilizando um item especifico
+.id {
+    background-color: green;
+} */

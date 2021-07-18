@@ -11,6 +11,9 @@ app.get('/', (req, res) => {
 app.get('/home', (req, res) => {
     res.sendFile(__dirname + '/views/home.html')});
 
+app.get('/blog', (req, res) => {
+        res.sendFile(__dirname + '/views/blog.html')});
+
 
 app.get('/manutencao', (req, res) => {
     res.sendFile(__dirname + '/views/manutencao.html')});
